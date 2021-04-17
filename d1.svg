@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
-  <rect x="19.63" y="15.786" width="456.891" height="389.045" style="fill: rgb(216, 216, 216); opacity: 0.14; stroke-width: 11px; stroke-opacity: 0.81; stroke-linecap: round; stroke-linejoin: round; stroke-dashoffset: -1px; stroke: rgb(56, 70, 10);"/>
   <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 15.344 344.614"/>
   <path style="fill: rgb(218, 50, 53); stroke: rgb(233, 2, 2);" d="M 96.855 395.323 L 96.023 305.319 L 125.964 305.318 L 127.53 394.548"/>
   <path style="fill: rgb(170, 216, 105); stroke: rgba(103, 230, 13, 0.83);" d="M 140.103 264.901 L 139.663 394.498 L 170.776 394.159 L 170.875 264.076"/>
